@@ -74,6 +74,10 @@ p {
     box-shadow: 0 8px 16px rgba(0,123,255,0.3);
 }
 
+.pilihan-hewan:hover .hewan-gambar {
+    transform: scale(1.05);
+    border-color: #007bff;
+}
 
 
 
