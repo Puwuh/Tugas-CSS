@@ -102,7 +102,13 @@ p {
     transition: background-color 0.3s ease;
 }
 
+.pilih-btn:hover {
+    background-color: #073350;
+}
 
+.pilih-btn:active {
+    transform: scale(0.95);
+}
 
 
 
