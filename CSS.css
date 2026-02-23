@@ -46,3 +46,15 @@ p {
     transition: transform 0.3s ease;
 }
 
+.pilihan-hewan {
+    flex: 1px;
+    min-width: 250px;
+    max-width: 300px;
+    background-color: white;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
