@@ -27,3 +27,13 @@ p {
     line-height: 1.5;
     margin-bottom: 15px;
 }
+
+.search-container {
+    display: flex;
+    border-radius: 8px;
+    justify-content: center;
+    margin-bottom: 1%;
+    width: 100%;
+}
+
+
