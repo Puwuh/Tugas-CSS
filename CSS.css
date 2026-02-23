@@ -67,4 +67,21 @@ p {
     margin: 30px 0;
 }
 
+.pilihan-hewan:hover {
+    background-color: #e3f2fd;  
+    border-color: #007bff;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,123,255,0.3);
+}
+
+
+
+
+
+
+
+
+
+
+
 
